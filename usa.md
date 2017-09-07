@@ -1,5 +1,5 @@
 ---
-bg: "mowgli.jpg"
+bg: "smoky.png"
 layout: page
 title: "USA/FONTANA"
 permalink: /usa/
