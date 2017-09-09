@@ -2,6 +2,67 @@
 * Media Queries
 * ========================================================================== */
 
+@media screen and (max-width: $break-point) {
+    .sidebar { display: block; }
+
+    .nav-main {
+	text-align: center;
+    }
+
+    .nav-main .blog-logo {
+	-webkit-order: 0;
+	-ms-flex-order: 0;
+	order: 0;
+	width: auto;
+    }
+
+    .nav-main a:not(.blog-logo) {
+	display: block;
+    }
+
+
+    .alingleft, .alignright, .aligncenter {
+	display: inline-block;
+    }
+
+    .alignleft {
+	float: left;
+	margin: .5em 1em .25em 0;
+    }
+
+    .alignright {
+	float: right;
+	margin: .5em 1em .25em 0;
+    }
+
+    .aligncenter { margin: 1em auto; }
+
+}
+
+@media screen and (max-width: $sm-break-point) {
+
+    body { font-size: 10pt; }
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.8em; }
+    h3 { font-size: 1.6em; }
+    h4 { font-size: 1.3em; }
+    h5 { font-size: 1em; }
+    h6 { font-size: .8em; }
+
+}
+
+@media screen and (min-width: $sm-break-point) {
+    .sidebar { display: block; }
+    body { font-size: 14pt; }
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.8em; }
+    h3 { font-size: 1.6em; }
+    h4 { font-size: 1.3em; }
+    h5 { font-size: 1em; }
+    h6 { font-size: .8em; }
+
+}
+
 @media screen and (min-width: $md-break-point) {
     body { font-size: 18pt; }
     h1 { font-size: 2em; }
@@ -20,6 +81,17 @@
 	height: 40px;
     }
 
+    .elements-wrapper {
+	-webkit-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+
+	.element-container {
+	    width: 33%;
+	}
+
+    }
+
     .nav-main {
 	text-align: center;
     }
@@ -35,7 +107,6 @@
 	display: block;
     }
 
-    .sidebar { display: block; }
 
     .alingleft, .alignright, .aligncenter {
 	display: inline-block;
@@ -52,17 +123,6 @@
     }
 
     .aligncenter { margin: 1em auto; }
-
-    .elements-wrapper {
-	-webkit-flex-flow: row wrap;
-	-ms-flex-flow: row wrap;
-	flex-flow: row wrap;
-
-	.element-container {
-	    width: 33%;
-	}
-
-    }
 
     .date { display: block;}
 
@@ -92,83 +152,83 @@
 
 
 @media screen and (max-width: $break-point) {
-  .nav-main a {
-    font-size: 14px;
-  }
+    .nav-main a {
+	font-size: 14px;
+    }
 }
 
 
 
 @media screen and (min-width: $break-point) {
-  table {
-    display: table;
-    min-width: 100%;
-  }
-
-  #switcher {
-    display: block;
-  }
-
-  .main-header {
-    position: static;
-  }
-
-  .nav-main {
-    padding: 0;
-    text-align: left;
-    a {
-      font-size: 13px;
-      display: block;
-      padding-right: 2em;
-      margin: 0;
+    table {
+	display: table;
+	min-width: 100%;
     }
-  }
 
-  .sidebar {
-    width: $aside-width;
-    height: 100%;
-    position: fixed;
-    left: 0;
-    top: 0;
-    background-attachment: scroll;
-    z-index: 200;
-    display: block;
-  }
-
-  .cover {
-    height: 100%;
-  }
-
-  .content-wrapper {
-    width: $content-wrapper-width;
-    max-width: $article-max-width;
-    margin-left: $post-margin-left;
-  }
-
-  main {
-    padding-top: 1em;
-  }
-
-  article {
-    h2:first-of-type {
-      margin-top: 0;
+    #switcher {
+	display: block;
     }
-  }
 
-  .blog-footer {
-    width: $content-wrapper-width;
-    max-width: $article-max-width;
-    margin-left: $post-margin-left;
-  }
+    .main-header {
+	position: static;
+    }
 
-  .post-links {
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-  }
+    .nav-main {
+	padding: 0;
+	text-align: left;
+	a {
+	    font-size: 13px;
+	    display: block;
+	    padding-right: 2em;
+	    margin: 0;
+	}
+    }
 
-  .link-to-post {
-    margin: 50px auto;
-    padding: 2em;
-  }
+    .sidebar {
+	width: $aside-width;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	background-attachment: scroll;
+	z-index: 200;
+	display: block;
+    }
+
+    .cover {
+	height: 100%;
+    }
+
+    .content-wrapper {
+	width: $content-wrapper-width;
+	max-width: $article-max-width;
+	margin-left: $post-margin-left;
+    }
+
+    main {
+	padding-top: 1em;
+    }
+
+    article {
+	h2:first-of-type {
+	    margin-top: 0;
+	}
+    }
+
+    .blog-footer {
+	width: $content-wrapper-width;
+	max-width: $article-max-width;
+	margin-left: $post-margin-left;
+    }
+
+    .post-links {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+    }
+
+    .link-to-post {
+	margin: 50px auto;
+	padding: 2em;
+    }
 }
