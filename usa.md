@@ -15,7 +15,7 @@ Sunday, 27 May 2018
 <h3> venue </h3>
 Fontana Dam
 
-<a href="https://www.nps.gov/grsm/planyourvisit/fontanadam.htm">Great Smoky Mountains National Park</a>
+<a href="https://en.wikipedia.org/wiki/Nantahala_National_Forest">Natahala National Forest</a> /  <a href="https://www.nps.gov/grsm/planyourvisit/fontanadam.htm">Great Smoky Mountains National Park</a>
 
 North Carolina
 
