@@ -2,10 +2,10 @@
 * Links
 * ========================================================================== */
 a {
-  color: #333;
-  &:hover,
-  &:focus,
-  &:active { text-decoration: none; }
+    color: $textcolor;
+    &:hover,
+    &:focus,
+    &:active { text-decoration: none; }
 }
 
 
@@ -111,12 +111,12 @@ a {
     order: 1;
     line-height: 50px;
     margin: auto;
-    color: #333;
+    color: $navbarcolor;
     text-decoration: none;
     &:hover,
     &:focus,
     &:active {
-      color: #766257;
+	color: $navbarhovercolor;
     }
   }
 }
