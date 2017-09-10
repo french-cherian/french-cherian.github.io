@@ -54,15 +54,23 @@ h4 { font-size: 1em; }
 h5 { font-size: .8em; }
 h6 { font-size: .6em; }
 
+h5, h6 {
+    margin-bottom: -0.5em
+}
+
+.indentsome {
+    margin-left: 2%;
+}
+
 .heading {
-  font-size: 2.3em;
-  text-transform: lowercase;
-  font-weight: bold;
-  font-family: $font-body, sans-serif;
-  margin: .67em 0;
-  a:link, a:hover, a:focus, a:visited {
-    color: #fff;
-  }
+    font-size: 2.3em;
+    text-transform: lowercase;
+    font-weight: bold;
+    font-family: $font-body, sans-serif;
+    margin: .67em 0;
+    a:link, a:hover, a:focus, a:visited {
+	color: #fff;
+    }
 }
 
 input[type="submit"],

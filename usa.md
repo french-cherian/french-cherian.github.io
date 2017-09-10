@@ -7,29 +7,51 @@ summary: "2018/May/27"
 active: USA/FONTANA
 ---
 
-<h3> date </h3>
+### date
 Sunday, 27 May 2018
 
 (Labor Day weekend)
 
-<h3> venue </h3>
+### venue
 Fontana Dam / Fontana Village
 
-<a href="https://en.wikipedia.org/wiki/Nantahala_National_Forest">Natahala National Forest</a> /  <a href="https://www.nps.gov/grsm/planyourvisit/fontanadam.htm">Great Smoky Mountains National Park</a>
+[Nantahala National Forest](https://en.wikipedia.org/wiki/Nantahala_National_Forest)
+
+[Great Smoky Mountains National Park](https://www.nps.gov/grsm/planyourvisit/fontanadam.htm)
 
 North Carolina
 
-
-<h3> travel </h3>
-
+### travel
 Airport options: Atlanta, GA / Asheville, NC / Knoxville, TN
 
-<h3> lodging </h3>
-<a href="http://www.fontanavillage.com/">Fontana Village Resort</a>
+### lodging
+Tabitha Henry / (828) 498-2150 / ask for the wedding rate
 
-(make sure you ask for the wedding rate!)
+[Fontana Village Resort](http://www.fontanavillage.com/)
 
 
+### activities
+
+<div class="indentsome" markdown="1">
+
+##### nearby
+Hiking in the Nantahala national forest and Smoky mountain national park, including on the AT. Some of our favorite trails include
+- Trail one
+- Trail two
+
+
+White Water Rafting and zip lining on Nantahala River (the resort has partnership w/ Wildwater)
+
+##### fontana resort
+hiking, biking, pool, volleyball, tennis, softball, disc golf, mini golf, shuffle board, game room and billiards, horseshoes, corn hole, ladder ball
+
+##### marina
+Water craft rental (pontoon, canoes, kayaks, paddle boards); fishing; shuttle to National Park creeks and trails on Park southern boundary; Pontoon cruise
+
+##### more
+The [‘Recreation’ and ‘Marina’ tabs](http://www.fontanavillage.com/recreation.html) on the Fontana Village webpage provides some info on some of these activities
+
+</div>
 <!-- <div id='map' style='width: 600px; height: 300px;'></div> -->
 <!-- <script> -->
 <!-- mapboxgl.accessToken = 'pk.eyJ1Ijoia2FkYWxjYWx5cHNlIiwiYSI6ImNqNzlycTI2ZDA2YnkzMnJzaTRlemtrMGMifQ.lTT5MwV-UGIQYhg7YOMSrA'; -->
