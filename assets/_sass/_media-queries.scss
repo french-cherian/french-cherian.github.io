@@ -21,7 +21,7 @@
     }
 
 
-    .alingleft, .alignright, .aligncenter {
+    .alignleft, .alignright, .aligncenter {
 	display: inline-block;
     }
 
@@ -41,7 +41,7 @@
 
 @media screen and (max-width: $sm-break-point) {
 
-    body { font-size: 10pt; }
+    body { font-size: 12pt; }
     h1 { font-size: 2em; }
     h2 { font-size: 1.8em; }
     h3 { font-size: 1.6em; }

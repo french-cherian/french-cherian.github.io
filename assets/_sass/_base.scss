@@ -10,6 +10,14 @@
   display: none;
 }
 
+ul {
+    list-style-type: none;
+}
+li::before{
+    margin-left: -1em;
+    content: ">  ";
+    margin-right: 0.5em;
+}
 
 .collage { display: block; width: 105%;}
 
