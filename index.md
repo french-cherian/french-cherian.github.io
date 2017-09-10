@@ -6,25 +6,25 @@ title: "the french/cherian wedding"
 summary:
 ---
 
-<div style="margin-top: -4%; margin-bottom: 7%" align="center">
+<div style="margin-top: -4%; margin-bottom: 7%" align="center" markdown="1">
 
-<h4>USA</h4>
-<p>
-  27 May 2018 / Fontana Village / North Carolina
-</p>
+#### USA
 
-<h4>INDIA</h4>
-<p>
+27 May 2018 / Fontana Village / North Carolina
+
+
+#### INDIA
+
 18 August 2018 / Kochi / Kerala
-</p>
 
-<p>
 (click the links above for more information)
-</p>
+
+[french@cherian.net](mailto:french@cherian.net)
 
 </div>
 
 <img class="collage" style=""  src="assets/images/collage.jpg"></img>
+
 <!-- {% for post in site.posts limit: 5 %} -->
 <!--   <article class="index-page"> -->
 <!--     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2> -->

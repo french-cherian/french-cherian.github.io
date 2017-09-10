@@ -4,7 +4,7 @@ layout: page
 title: "INDIA/KOCHI"
 permalink: /india/
 summary: "2017/Aug/18"
-active: INDIA/KOCHI
+active: INDIA
 ---
 
 <!-- <h3> rsvp </h3> -->

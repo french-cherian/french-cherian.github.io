@@ -4,7 +4,7 @@ layout: page
 title: "USA/FONTANA"
 permalink: /usa/
 summary: "2018/May/27"
-active: USA/FONTANA
+active: USA
 collage: smokey-collage.jpg
 ---
 
