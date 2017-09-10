@@ -4,3 +4,7 @@ layout: default
 <article class="page">
   {{ content }}
 </article>
+
+{% if page.collage %}
+<img class="collage" src="../assets/images/{{page.collage}}">
+{% endif %}

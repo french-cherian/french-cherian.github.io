@@ -5,6 +5,7 @@ title: "USA/FONTANA"
 permalink: /usa/
 summary: "2018/May/27"
 active: USA/FONTANA
+collage: smokey-collage.jpg
 ---
 
 ### date
@@ -35,7 +36,7 @@ Tabitha Henry / (828) 498-2150 / ask for the wedding rate
 <div class="indentsome" markdown="1">
 
 ##### nearby
-Hiking in the Nantahala national forest and Smoky mountain national park, including on the AT. Some of our favorite trails include
+Hiking in the Nantahala National Forest and Great Smoky Mountains National Park, including on the AT. Some of our favorite trails include
 - Trail one
 - Trail two
 
@@ -52,9 +53,11 @@ Water craft rental (pontoon, canoes, kayaks, paddle boards); fishing; shuttle to
 The [‘Recreation’ and ‘Marina’ tabs](http://www.fontanavillage.com/recreation.html) on the Fontana Village webpage provides some info on some of these activities
 
 </div>
+
+
 <!-- <div id='map' style='width: 600px; height: 300px;'></div> -->
 <!-- <script> -->
-<!-- mapboxgl.accessToken = 'pk.eyJ1Ijoia2FkYWxjYWx5cHNlIiwiYSI6ImNqNzlycTI2ZDA2YnkzMnJzaTRlemtrMGMifQ.lTT5MwV-UGIQYhg7YOMSrA'; -->
+<!-- mapboxgl.accessToken = 'pk.eyJ1joia2FkYWxjYWx5cHNlIiwiYSI6ImNqNzlycTI2ZDA2YnkzMnJzaTRlemtrMGMifQ.lTT5MwV-UGIQYhg7YOMSrA'; -->
 <!-- var map = new mapboxgl.Map({ -->
 <!-- container: 'map', -->
 <!-- style: 'mapbox://styles/mapbox/streets-v10' -->

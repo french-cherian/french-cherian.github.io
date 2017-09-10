@@ -13,14 +13,23 @@
 ul {
     list-style-type: none;
 }
+
 li::before{
     margin-left: -1em;
     content: ">  ";
     margin-right: 0.5em;
 }
 
-.collage { display: block; width: 105%;}
-
+.collage {
+    position: relative;
+    width: 105%;
+    margin: 0.4em 0 0 0;
+    padding: 0;
+    margin-left: 0%;
+    margin-bottom: -5%;
+    max-width: 150%;
+    overflow: hidden;
+}
 
 body {
     font: normal 20pt $font-body, sans-serif;
@@ -255,6 +264,7 @@ article a.btn {
 
 .aside-left {
     left: -33% !important;
+    transition: all .5s ease-in-out 0s;
 }
 
 .centering {

@@ -3,7 +3,14 @@
 * ========================================================================== */
 
 @media screen and (max-width: $break-point) {
-    .sidebar { display: block; }
+    .sidebar, .cover {
+	display: block;
+	height: 80vh;
+    }
+
+    .collage {
+	width: 100vw;
+    }
 
     .nav-main {
 	text-align: center;
@@ -52,8 +59,7 @@
 }
 
 @media screen and (min-width: $sm-break-point) {
-    .sidebar { display: block; }
-    body { font-size: 14pt; }
+    body { font-size: 16pt; }
     h1 { font-size: 2em; }
     h2 { font-size: 1.8em; }
     h3 { font-size: 1.6em; }
@@ -64,6 +70,7 @@
 }
 
 @media screen and (min-width: $md-break-point) {
+
     body { font-size: 18pt; }
     h1 { font-size: 2em; }
     h2 { font-size: 1.8em; }

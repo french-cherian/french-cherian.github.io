@@ -216,6 +216,7 @@ main {
 
 article {
     padding: 0em 1em;
+    margin-left: 1em;
     img,
     embed,
     object,
@@ -239,9 +240,9 @@ article {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	margin: 1em auto;
-	padding: .2em;
-	background-color: #fff;
+	margin: none;
+	padding: none;
+	background-color: inherit;
     }
 }
 
