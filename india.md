@@ -1,5 +1,5 @@
 ---
-bg: "mowgli.jpg"
+bg: "nets.jpg"
 layout: page
 title: "INDIA/KOCHI"
 permalink: /india/
