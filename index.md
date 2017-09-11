@@ -2,7 +2,7 @@
 bg: "mowgli.jpg"
 layout: default
 crawlertitle: "the french/cherian wedding"
-title: "the french/cherian wedding"
+title: "the french / cherian wedding"
 summary:
 ---
 
