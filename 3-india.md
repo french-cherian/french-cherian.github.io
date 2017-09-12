@@ -3,14 +3,15 @@ bg: "nets.jpg"
 layout: page
 title: "INDIA/KOCHI"
 permalink: /india/
-summary: "2017/Aug/18"
+summary: "2018/Aug/18"
 active: INDIA
+collage: india-collage.jpg
 ---
 
 <!-- <h3> rsvp </h3> -->
 
 ### date
-18 Aug 2017
+18 Aug 2018
 
 ### venue
 Samuddrika Convention Center, Willingdon Island

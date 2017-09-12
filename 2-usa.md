@@ -11,7 +11,7 @@ collage: smokey-collage.jpg
 ### date
 Sunday, 27 May 2018
 
-(Labor Day weekend)
+(Memorial Day weekend)
 
 ### venue
 Fontana Dam / Fontana Village
