@@ -37,11 +37,11 @@ Tabitha Henry / (828) 498-2150 / ask for the wedding rate
 
 ##### nearby
 Hiking in the Nantahala National Forest and Great Smoky Mountains National Park, including on the AT. Some of our favorite trails include
-- Trail one
-- Trail two
+- Andrews Bald
+- Shuckstack
 
 
-White Water Rafting and zip lining on Nantahala River (the resort has partnership w/ Wildwater)
+White Water Rafting and zip-lining on Nantahala River (the resort has partnership with Wildwater)
 
 ##### fontana resort
 hiking, biking, pool, volleyball, tennis, softball, disc golf, mini golf, shuffle board, game room and billiards, horseshoes, corn hole, ladder ball
