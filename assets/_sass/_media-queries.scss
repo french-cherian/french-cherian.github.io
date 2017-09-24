@@ -4,6 +4,10 @@
 
 @media screen and (max-width: $break-point) {
 
+    .nav-main a {
+	font-size: 16pt;
+    }
+
     .collage {
 	width: 100vw;
 	overflow: none;
@@ -46,28 +50,79 @@
 
 }
 
-@media screen and (min-width: $sm-break-point) {
-    .sidebar, .cover {
-	display: block;
-	height: 85vh;
+
+@media screen and (min-width: $break-point) {
+    table {
+	display: table;
+	min-width: 100%;
     }
 
-    body { font-size: 16pt; }
-    h1 { font-size: 2em; }
-    h2 { font-size: 1.8em; }
-    h3 { font-size: 1.6em; }
-    h4 { font-size: 1.3em; }
-    h5 { font-size: 1em; }
-    h6 { font-size: .8em; }
-    .heading { font-size: 1.8em; }
-}
+    #switcher {
+	display: block;
+    }
 
-@media screen and (max-width: $sm-break-point) {
-    main.content-wrapper { padding-top: 3em; }
-}
+    .main-header {
+	position: static;
+    }
 
-@media screen and (min-width: $sm-break-point) and (max-width: $md-break-point) {
-    main.content-wrapper { padding-top: 0.5em;}
+    .nav-main {
+	padding: 0;
+	text-align: left;
+	a {
+	    font-size: 13px;
+	    display: block;
+	    padding-right: 2em;
+	    margin: 0;
+	}
+    }
+
+    .sidebar {
+	width: $aside-width;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	background-attachment: scroll;
+	z-index: 200;
+	display: block;
+    }
+
+    .cover {
+	height: 100%;
+    }
+
+    .content-wrapper {
+	width: $content-wrapper-width;
+	max-width: $article-max-width;
+	margin-left: $post-margin-left;
+    }
+
+    main {
+	padding-top: 1em;
+    }
+
+    article {
+	h2:first-of-type {
+	    margin-top: 0;
+	}
+    }
+
+    .blog-footer {
+	width: $content-wrapper-width;
+	max-width: $article-max-width;
+	margin-left: $post-margin-left;
+    }
+
+    .post-links {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+    }
+
+    .link-to-post {
+	margin: 50px auto;
+	padding: 2em;
+    }
 }
 
 @media screen and (min-width: $md-break-point) {
@@ -157,86 +212,26 @@
     }
 }
 
-
-
-@media screen and (max-width: $break-point) {
-    .nav-main a {
-	font-size: 16pt;
-    }
-
+@media screen and (max-width: $sm-break-point) {
+    main.content-wrapper { padding-top: 3em; }
 }
 
+@media screen and (min-width: $sm-break-point) and (max-width: $md-break-point) {
+    main.content-wrapper { padding-top: 0.5em;}
+}
 
-@media screen and (min-width: $break-point) {
-    table {
-	display: table;
-	min-width: 100%;
-    }
-
-    #switcher {
+@media screen and (min-width: $sm-break-point) {
+    .sidebar, .cover {
 	display: block;
+	height: 85vh;
     }
 
-    .main-header {
-	position: static;
-    }
-
-    .nav-main {
-	padding: 0;
-	text-align: left;
-	a {
-	    font-size: 13px;
-	    display: block;
-	    padding-right: 2em;
-	    margin: 0;
-	}
-    }
-
-    .sidebar {
-	width: $aside-width;
-	height: 100%;
-	position: fixed;
-	left: 0;
-	top: 0;
-	background-attachment: scroll;
-	z-index: 200;
-	display: block;
-    }
-
-    .cover {
-	height: 100%;
-    }
-
-    .content-wrapper {
-	width: $content-wrapper-width;
-	max-width: $article-max-width;
-	margin-left: $post-margin-left;
-    }
-
-    main {
-	padding-top: 1em;
-    }
-
-    article {
-	h2:first-of-type {
-	    margin-top: 0;
-	}
-    }
-
-    .blog-footer {
-	width: $content-wrapper-width;
-	max-width: $article-max-width;
-	margin-left: $post-margin-left;
-    }
-
-    .post-links {
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-    }
-
-    .link-to-post {
-	margin: 50px auto;
-	padding: 2em;
-    }
+    body { font-size: 16pt; }
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.8em; }
+    h3 { font-size: 1.6em; }
+    h4 { font-size: 1.3em; }
+    h5 { font-size: 1em; }
+    h6 { font-size: .8em; }
+    .heading { font-size: 1.8em; }
 }
