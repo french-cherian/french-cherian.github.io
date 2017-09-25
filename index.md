@@ -23,7 +23,7 @@ summary:
 
 </div>
 
-<img class="collage" style=""  src="assets/images/collage.jpg"></img>
+<img class="collage" style=""  src="assets/images/collage.jpg">
 
 <!-- {% for post in site.posts limit: 5 %} -->
 <!--   <article class="index-page"> -->
