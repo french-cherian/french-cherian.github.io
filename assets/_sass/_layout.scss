@@ -156,7 +156,7 @@ a {
 }
 
 .cover {
-    transition: all 0.8s ease 0s;
+    // transition: all 0.8s ease 0s;
     text-align: right;
     position: relative;
     background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.35)) repeat scroll 0% 0% transparent;
@@ -325,7 +325,7 @@ article {
   outline: none;
   text-align: center;
   border: 1px solid #ddd;
-  transition: border-color .5s ease-in 0s;
+  // transition: border-color .5s ease-in 0s;
   &:hover { border-color: #0D243B; }
 
   &__prev, &__next {
