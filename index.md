@@ -6,7 +6,7 @@ title: "the french / cherian wedding"
 summary:
 ---
 
-<div style="margin-top: -4%; margin-bottom: 7%" align="center" markdown="1">
+<div style="margin-bottom: 7%" align="center" markdown="1">
 
 #### USA
 

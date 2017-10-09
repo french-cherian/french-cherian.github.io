@@ -1,27 +1,69 @@
 /*
 * Media Queries
 * ========================================================================== */
+/* ----------- iPhone 4 and 4S ----------- */
 
-@media screen and (max-width: $md-break-point) {
-    body {font-size: 25pt;}
-    .heading {font-size: 1.4em;}
-    main {padding-top: 0.5em;}
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+    .sidebar, .cover {
+	height: 1000px;
+    }
+
 }
 
-@media screen and (min-width: $md-break-point) {
-    h1 { font-size: 2em; }
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+    .sidebar, .cover {
+	height: 1200px;
+    }
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 375px)
+and (max-device-width: 667px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+    .sidebar, .cover {
+	height: 1400px;
+    }
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3) {
+
+    .sidebar, .cover {
+	height: 1400px;
+    }
+
+}
+
+@media screen and (max-width: $break-point) {
+    body {font-size: 36pt;}
+    main {padding-top: 0.5em;}
+    h1 { font-size: 2.1em; }
     h2 { font-size: 1.8em; }
     h3 { font-size: 1.6em; }
     h4 { font-size: 1.3em; }
     h5 { font-size: 1em; }
     h6 { font-size: .8em; }
-
-    #menu-checkbox:checked + .nav-main {
-	-webkit-flex-flow: row nowrap;
-	-ms-flex-flow: row nowrap;
-	flex-flow: row nowrap;
-	height: 40px;
-    }
 
     .nav-main {
 	text-align: center;
@@ -36,9 +78,16 @@
 
     .nav-main a:not(.blog-logo) {
 	display: block;
+	font-size: 1.2em;
     }
 
-    .sidebar { display: block; }
+    .sidebar, .cover {
+	background-attachment: scroll;
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	max-height: 85vh;
+    }
 
     .alingleft, .alignright, .aligncenter {
 	display: inline-block;
