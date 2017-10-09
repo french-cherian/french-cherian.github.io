@@ -3,7 +3,7 @@
 * ========================================================================== */
 
 @media screen and (max-width: $md-break-point) {
-    body {font-size: 18pt;}
+    body {font-size: 25pt;}
     .heading {font-size: 1.4em;}
     main {padding-top: 0.5em;}
 }
@@ -99,8 +99,6 @@
 //     font-size: 16px;
 //   }
 // }
-
-
 
 @media screen and (min-width: $break-point) {
     table {
