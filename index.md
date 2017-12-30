@@ -12,6 +12,7 @@ summary:
 
 27 May 2018 / Fontana Village / North Carolina
 
+[RSVP here](https://goo.gl/forms/vGVFVCrkHzz7LcoO2)
 
 #### INDIA
 

@@ -13,6 +13,9 @@ Sunday, 27 May 2018
 
 (Memorial Day weekend)
 
+### RSVP
+[RSVP here](https://goo.gl/forms/vGVFVCrkHzz7LcoO2)
+
 ### venue
 Fontana Dam / Fontana Village
 
