@@ -8,13 +8,15 @@ active: USA
 collage: smokey-collage.jpg
 ---
 
-### date
-Sunday, 27 May 2018
-
-(Memorial Day weekend)
-
 ### RSVP
 [RSVP here](https://goo.gl/forms/vGVFVCrkHzz7LcoO2)
+
+### dates / schedule
+Saturday, May 26 - Rehearsal Dinner
+
+Sunday, May 27, 4pm - Wedding ceremony & reception
+
+(Memorial Day weekend)
 
 ### venue
 Fontana Dam / Fontana Village
@@ -26,7 +28,7 @@ Fontana Dam / Fontana Village
 North Carolina
 
 ### travel
-Airport options: Atlanta, GA / Asheville, NC / Knoxville, TN
+Airport options: Atlanta, GA / Asheville, NC
 
 ### lodging
 Tabitha Henry / (828) 498-2150 / ask for the wedding rate
