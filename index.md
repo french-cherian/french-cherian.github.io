@@ -6,7 +6,11 @@ title: "the french / cherian wedding"
 summary:
 ---
 
-<div style="margin-bottom: 7%" align="center" markdown="1">
+<div style="margin-bottom: 7%; margin-right: 3%; margin-left: 3%" align="center" markdown="1">
+
+#### GIFTS
+
+We value your presence most of all, but should you wish to get us a gift please consider a donation to the [National Parks Foundation](https://www.nationalparks.org/ "National Parks Foundation"). You may also browse our registries at  [Amazon](https://www.amazon.com/wedding/share/french-cherian "Amazon wedding registry") or [Ten Thousand Villages](https://www.tenthousandvillages.com/giftregistry/view/index/id/6935f7dbb76713135f973c35416e3cd7/ "Ten Thousand Villages gift registry").
 
 #### USA
 
