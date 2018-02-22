@@ -14,6 +14,8 @@ summary:
 
 [RSVP here](https://goo.gl/forms/vGVFVCrkHzz7LcoO2)
 
+Rooms are blocked at the resort till March 25th, make sure you [book by then!](http://www.fontanavillage.com/)
+
 #### INDIA
 
 18 August 2018 / Kochi / Kerala

@@ -39,6 +39,7 @@ Tabitha Henry / (828) 498-2150 / ask for the wedding rate
 
 [Fontana Village Resort](http://www.fontanavillage.com/)
 
+Rooms are blocked till March 25, so make sure you book by then!
 
 ### activities
 
