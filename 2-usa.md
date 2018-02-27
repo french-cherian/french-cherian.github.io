@@ -15,6 +15,15 @@ collage: smokey-collage.jpg
 
 We value your presence most of all, but should you wish to get us a gift please consider a donation to the [National Parks Foundation](https://www.nationalparks.org/). You may also browse our registries at  [Amazon](https://www.amazon.com/wedding/share/french-cherian) or [Ten Thousand Villages](https://www.tenthousandvillages.com/giftregistry/view/index/id/6935f7dbb76713135f973c35416e3cd7/).
 
+### lodging
+Tabitha Henry / (828) 498-2150 / [tabitha.henry@fontanavillage.com](mailto:tabitha.henry@fontanavillage.com)
+
+Ask for the wedding rate.
+
+[Fontana Village Resort](http://www.fontanavillage.com/)
+
+Rooms are blocked till March 25, so make sure you book by then!
+
 ### dates / schedule
 Saturday, May 26 - Rehearsal Dinner
 
@@ -33,13 +42,6 @@ North Carolina
 
 ### travel
 Airport options: Atlanta, GA / Asheville, NC
-
-### lodging
-Tabitha Henry / (828) 498-2150 / ask for the wedding rate
-
-[Fontana Village Resort](http://www.fontanavillage.com/)
-
-Rooms are blocked till March 25, so make sure you book by then!
 
 ### activities
 
