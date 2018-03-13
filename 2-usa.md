@@ -25,11 +25,14 @@ Ask for the wedding rate.
 Rooms are blocked till March 25, so make sure you book by then!
 
 ### dates / schedule
+(Memorial Day weekend)
+
 Saturday, May 26 - Rehearsal Dinner
+- Attire: Casual grill 'n chill.
 
 Sunday, May 27, 4pm - Wedding ceremony & reception
+- Attire: Cocktail attire + clothes for bonfire after-party
 
-(Memorial Day weekend)
 
 ### venue
 Fontana Dam / Fontana Village
@@ -41,7 +44,15 @@ Fontana Dam / Fontana Village
 North Carolina
 
 ### travel
-Airport options: Atlanta, GA / Asheville, NC
+Airport options: Atlanta, GA / Asheville, NC. 
+
+It is possible to fly into Nashville but we do not recommend driving the [Tail of the Dragon](https://tailofthedragon.com/details/) (US-129), a route popular with motorcyclists for its many curves.
+
+### logistics
+
+There isn't cell or wi-fi at the dam where the wedding ceremony will be held. The main lodge, restaurants, event hall/sundeck area, pitstop and general store all have Wi-Fi and Verizon hotspots. There is Wi-Fi in some of the cabins and they are working to expand it to include more cabins. You will receive the Wi-Fi password at check-in.
+
+We will have a bonfire on _both_ nights! Come prepared with clothes you can get smoky in. 
 
 ### activities
 
@@ -51,7 +62,6 @@ Airport options: Atlanta, GA / Asheville, NC
 Hiking in the Nantahala National Forest and Great Smoky Mountains National Park, including on the AT. Some of our favorite trails include
 - Andrews Bald
 - Shuckstack
-
 
 White Water Rafting and zip-lining on Nantahala River (the resort has partnership with Wildwater)
 
