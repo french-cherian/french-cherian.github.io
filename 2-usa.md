@@ -41,7 +41,7 @@ Fontana Dam / Fontana Village
 North Carolina
 
 ### travel
-Airport options: Atlanta, GA / Asheville, NC / Chattanooga, TN. 
+Airport options: Atlanta, GA / Asheville, NC. 
 
 It is possible to fly into Nashville or Knoxville but we do not recommend driving the [Tail of the Dragon](https://tailofthedragon.com/details/) (US-129), a route popular with motorcyclists for its many curves.
 
@@ -50,6 +50,8 @@ It is possible to fly into Nashville or Knoxville but we do not recommend drivin
 There isn't cell or wi-fi at the dam where the wedding ceremony will be held. The main lodge, restaurants, event hall/sundeck area, pitstop and general store all have Wi-Fi and Verizon hotspots. There is Wi-Fi in some of the cabins and they are working to expand it to include more cabins. You will receive the Wi-Fi password at check-in.
 
 We will have a bonfire on _both_ nights! Come prepared with clothes you can get smoky in. 
+
+If you haven't let us know of any dietary restrictions, please [email us](mailto:french@cherian.net).
 
 ### activities
 
