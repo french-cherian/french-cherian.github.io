@@ -44,9 +44,9 @@ Fontana Dam / Fontana Village
 North Carolina
 
 ### travel
-Airport options: Atlanta, GA / Asheville, NC. 
+Airport options: Atlanta, GA / Asheville, NC / Chattanooga, TN. 
 
-It is possible to fly into Nashville but we do not recommend driving the [Tail of the Dragon](https://tailofthedragon.com/details/) (US-129), a route popular with motorcyclists for its many curves.
+It is possible to fly into Nashville or Knoxville but we do not recommend driving the [Tail of the Dragon](https://tailofthedragon.com/details/) (US-129), a route popular with motorcyclists for its many curves.
 
 ### logistics
 
