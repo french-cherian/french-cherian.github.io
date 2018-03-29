@@ -25,7 +25,7 @@ Rooms are blocked till March 25, so make sure you book by then!
 (Memorial Day weekend)
 
 Saturday, May 26 - Rehearsal Dinner
-- Attire: Casual grill 'n chill.
+- Attire: Casual grill 'n chill (suitable for bonfire).
 
 Sunday, May 27, 4pm - Wedding ceremony & reception
 - Attire: Cocktail attire + clothes for bonfire after-party
@@ -58,9 +58,16 @@ If you haven't let us know of any dietary restrictions, please [email us](mailto
 <div class="indentsome" markdown="1">
 
 ##### nearby
+
+Check out the [Cherohala Skyway scenic drive](http://www.cherohala.org) and the [Stecoah Valley Arts Center](https://www.stecoahvalleycenter.com/crafts.html).
+
 Hiking in the Nantahala National Forest and Great Smoky Mountains National Park, including on the AT. Some of our favorite trails include
 - Andrews Bald
 - Shuckstack
+- [Twentymile Creek](http://npplan.com/parks-by-state/north-carolina-national-parks/great-smoky-mountains-national-park-park-at-a-glance/great-smoky-mountains-national-park-twentymile-region/great-smoky-mountains-national-park-twentymile-loop-hike/)
+
+Also check out the Joyce Kilmer Memorial Forest: information [here](https://www.fs.usda.gov/recarea/nfsnc/null/recarea/?recid=48920&actid=70
+) and [here](https://www.romanticasheville.com/joyce_kilmer_forest.htm).
 
 White Water Rafting and zip-lining on Nantahala River (the resort has partnership with Wildwater)
 
