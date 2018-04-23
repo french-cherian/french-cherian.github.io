@@ -71,6 +71,13 @@ Also check out the Joyce Kilmer Memorial Forest: information [here](https://www.
 
 White Water Rafting and zip-lining on Nantahala River (the resort has partnership with Wildwater)
 
+##### Bryson City
+- Nantahala Brewery
+- Small town america Main Street Shops
+- Great Smoky Mountain Railroad
+- Great Smoky National Park Entrance
+- Tubing at Deep Creek Picnic Area: Rent a tube for a couple of bucks. There are multiple rental possibilities between Bryson City and Deep Creek Picnic Area. We recommend spending a couple bucks extra for tube with thick solid (plastic) bottom to protect your behind from rocks. 
+
 ##### fontana resort
 hiking, biking, pool, volleyball, tennis, softball, disc golf, mini golf, shuffle board, game room and billiards, horseshoes, corn hole, ladder ball
 
