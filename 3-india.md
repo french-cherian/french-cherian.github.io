@@ -10,19 +10,25 @@ collage: india-collage.jpg
 
 <!-- <h3> rsvp </h3> -->
 
-### date
-18 Aug 2018
+### dates
+17, 18 August 2018
 
-### venue
-Samuddrika Convention Center, Willingdon Island
+### schedule
 
-Kochi, Kerala
+Pre-wedding reception: 7pm Friday, August 17
+- The Mercy Hotel, MG Road, Kochi.
+
+Wedding ceremony: 3.30pm, Saturday, 18 August: 
+- Salem Marthoma Church, Convent Road, Kochi.
+
+Wedding Reception: 6.30pm, Saturday, 18 August: 
+- Samuddrika Convention Center, Willingdon Island
 
 ### travel
 
-Airport: Cochin International Airport
+Closest airport: Kochi International Airport
 
-We'll help you arrange transportation to your hotel.
+We can help you arrange transportation to your hotel.
 
 ### activities
 
@@ -31,5 +37,7 @@ List of nearby places to visit:
 - [Thattekkad Bird Sanctuary](https://en.wikipedia.org/wiki/Thattekad_Bird_Sanctuary)
 - Munnar / Eravikulam National Park
 - Periyar Tiger Reserve
+
+We can help you plan your trip. Get in touch!
 <!-- <h3> lodging </h3> -->
 
