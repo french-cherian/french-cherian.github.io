@@ -14,6 +14,11 @@ collage: india-collage.jpg
 
 Please RSVP [here](https://docs.google.com/forms/d/1TNugig5FSBJvgSXGaJ8jcUnr0bj4FwmvoCES4Y32TSU/viewform?edit_requested=false)
 
+### gifts
+
+We value your presence most of all, but should you wish to get us a gift please consider a donation to the [National Parks Foundation](https://www.nationalparks.org/). You may also browse our registries at  [Amazon](https://www.amazon.com/wedding/share/french-cherian) or [Ten Thousand Villages](https://www.tenthousandvillages.com/giftregistry/view/index/id/6935f7dbb76713135f973c35416e3cd7/).
+We have also set up a honeymoon fund for our [planned hiking trip in the Himalayas](https://www.honeyfund.com/wedding/FrenchCherian4ever)
+
 ### dates
 17, 18 August 2018
 
