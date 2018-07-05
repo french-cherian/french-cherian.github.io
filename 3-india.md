@@ -10,6 +10,10 @@ collage: india-collage.jpg
 
 <!-- <h3> rsvp </h3> -->
 
+### RSVP
+
+Please RSVP [here](https://docs.google.com/forms/d/1TNugig5FSBJvgSXGaJ8jcUnr0bj4FwmvoCES4Y32TSU/viewform?edit_requested=false)
+
 ### dates
 17, 18 August 2018
 
