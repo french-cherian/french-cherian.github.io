@@ -8,15 +8,16 @@ summary:
 
 <div style="margin-bottom: 7%; margin-right: 3%; margin-left: 3%" align="center" markdown="1">
 
-#### INDIA
+#### INDIA : 17, 18 August 2018 / Kochi / Kerala
 
-18 August 2018 / Kochi / Kerala
+##### Pre-wedding reception, 7pm Friday, August 17
+The Mercy Hotel, MG Road, Kochi.
 
-#### USA
+##### Wedding ceremony, 3.30pm, Saturday, 18 August
+Salem Marthoma Church, Convent Road, Kochi.
 
-27 May 2018 / Fontana Village / North Carolina
-
-(click the links above for more information)
+##### Wedding Reception, 6.30pm, Saturday, 18 August
+Samuddrika Convention Center, Willingdon Island
 
 [french@cherian.net](mailto:french@cherian.net)
 

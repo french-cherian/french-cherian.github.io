@@ -30,7 +30,7 @@ Pre-wedding reception: 7pm Friday, August 17
 Wedding ceremony: 3.30pm, Saturday, 18 August: 
 - Salem Marthoma Church, Convent Road, Kochi.
 
-Wedding Reception: 6.30pm, Saturday, 18 August: 
+Wedding reception: 6.30pm, Saturday, 18 August: 
 - Samuddrika Convention Center, Willingdon Island
 
 ### travel
